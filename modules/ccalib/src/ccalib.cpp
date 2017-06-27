@@ -55,6 +55,7 @@
 #include <vector>
 #include <cstring>
 
+//
 namespace cv{ namespace ccalib{
 
 using namespace std;
